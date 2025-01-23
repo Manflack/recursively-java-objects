@@ -11,13 +11,13 @@ The program is especially useful for generating request or response templates fo
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your_username/repository_name.git
+   git clone https://github.com/Manflack/recursively-java-objects.git
    ```
    
 2. Navigate to the project directory:
 
    ```bash
-   cd repository_name
+   cd recursively-java-objects
    ```
 
 3. Install the dependencies:
@@ -48,6 +48,4 @@ python main.py /home/user/my_project com.example.MyClass
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
 
-Make sure to replace `your_username` and `repository_name` with your actual GitHub username and repository name. Additionally, add a `LICENSE` file with the license details if you haven't already.
